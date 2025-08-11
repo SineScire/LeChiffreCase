@@ -6,7 +6,7 @@ There are multiple versions of the gaskets:
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
 
-![](https://github.com/SineScire/LeChiffreCase/blob/83504bfe8cba9599ad15a4573f04680ff5f2158e/Images/Angle.png)
+![](https://github.com/SineScire/LeChiffreCase/blob/f13dd89933dc6f7c546932abdb72a15ba2c16325/Images/Angle.png)
 
 ## Credits
 * [Tominabox1](https://github.com/tominabox1/Le-Chiffre-Keyboard) for the original PCB design
