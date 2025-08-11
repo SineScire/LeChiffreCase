@@ -9,6 +9,7 @@
 | Gaskets | 6x | 3D printed with flexible filament around 95A hardness |
 | m3x4mm Threaded Insert | 11x | Brass inserts for the top housing |
 | m3x6mm Sockethead Screws | 11x | To fasten the top and bottom housing |
+| Rubber feet | 4x | 2mm thick rubber feet with a diameter of 15mm |
 | Soldering iron | 1x | To insert the threaded inserts |
 
 ## Printing the parts
@@ -43,5 +44,6 @@
 #### Assembling the case
 1. Place the assembled switchplate in the top housing and set it face down, the gaskets should not fit snug in the top housing but there also should not be any sideways movement.
 2. Assemble the case by placing the bottom housing on the top housing and fasten the case using the eleven m3x6mm sockethead screws.
-3. The case is now assembled! Finish the build with your keycaps of choise and enjoy your keyboard!
+3. Place the four rubber feet on the bottom housing
+4. The case is now assembled! Finish the build with your keycaps of choise and enjoy your keyboard!
 ![](https://github.com/SineScire/LeChiffreCase/blob/862077270cdd7fa47359196c6d010f793a45b591/Images/Angle.png)
