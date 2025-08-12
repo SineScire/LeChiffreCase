@@ -19,11 +19,11 @@
 
 | Top housing | Bottom housing | Switchplate |
 | ----------- | -------------- | ----------- |
-|  |  |  |
+| ![](https://github.com/SineScire/LeChiffreCase/blob/dcc250209313b17717ef2465b0205aa31181d77f/Images/OrientationTopHousing.png) | ![](https://github.com/SineScire/LeChiffreCase/blob/dcc250209313b17717ef2465b0205aa31181d77f/Images/OrientationBottomHousing.png) | ![](https://github.com/SineScire/LeChiffreCase/blob/dcc250209313b17717ef2465b0205aa31181d77f/Images/OrientationSwitchplate.png) |
 
 | Insert plate | Gasket |
 | ------------ | ------ |
-|  |  |
+| ![](https://github.com/SineScire/LeChiffreCase/blob/dcc250209313b17717ef2465b0205aa31181d77f/Images/OrientationInsert.png) | ![](https://github.com/SineScire/LeChiffreCase/blob/dcc250209313b17717ef2465b0205aa31181d77f/Images/OrientationGasket.png) |
 
 ## Assembling the case
 ### Preparing the switchplate
