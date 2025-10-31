@@ -8,7 +8,7 @@ There are multiple versions of the gaskets:
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
 
-Check out the manual [here](https://github.com/SineScire/LeChiffreCase/blob/a8e02dca775fdf3684c92dabb22a6a85a91f93be/Manual.md)
+Check out the manual [here](https://github.com/SineScire/LeChiffreCase/blob/709f2b51f192e5b002fa32b0e5fa310748ea253c/Manual.md)
 
 ![](https://github.com/SineScire/LeChiffreCase/blob/f13dd89933dc6f7c546932abdb72a15ba2c16325/Images/Angle.png)
 
